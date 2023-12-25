@@ -1,4 +1,4 @@
-module github.com/free5gc/openapi
+module github.com/AaronZheng815/openapi
 
 go 1.17
 

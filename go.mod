@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/antihax/optional v1.0.0
+	github.com/free5gc/openapi v1.0.6
 	github.com/golang-jwt/jwt v3.2.1+incompatible
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/pkg/errors v0.9.1
